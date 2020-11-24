@@ -15,7 +15,7 @@ This is an R Package that tests the mean for one-sample using Bayesian methods.
 
 ## Credits
 
-The content of the the package function 'bayesian_t_test' has been written by Dr. Luai Al Labadi.
+The content of the the package function 'bayesian_t_test' has been written by Dr. Luai Al Labadi (Assistant Professor, Teaching Stream & Statistics Faculty Advisor at University of Toronto).
 
 ## Feedback or Questions
 
